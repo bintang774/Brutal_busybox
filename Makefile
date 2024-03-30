@@ -1,8 +1,8 @@
 VERSION = 1
 PATCHLEVEL = 36
 SUBLEVEL = 0
-EXTRAVERSION = .1.brutal-feravolt
-NAME = Brutal Busybox
+EXTRAVERSION = .1.-eraselk-pussybox
+NAME = Busybox
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
